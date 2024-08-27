@@ -1,4 +1,6 @@
 # BOT-DETECTION-ML-EXPERIMENT
+![image](https://github.com/user-attachments/assets/c70953bb-0e7f-4384-b1c4-c96143414dc1)
+
 This Repository is Used for Experimentation process for a BOT-Detection Model, especially leveraging Mlflow and DVC. This Document can help in navigating through the directory for the experimentation setup. Similar template can be used for other Projects. 
 
 ## Project Structure
