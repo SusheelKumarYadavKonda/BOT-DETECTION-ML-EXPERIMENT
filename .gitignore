@@ -3,3 +3,4 @@ bot-env/
 .dvc/
 
 Notebooks/.ipynb_checkpoints/
+.virtual_documents/
