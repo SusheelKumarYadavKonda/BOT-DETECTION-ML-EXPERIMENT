@@ -6,3 +6,4 @@ scikit-learn
 jupyterlab
 dvc
 mlflow
+nltk
