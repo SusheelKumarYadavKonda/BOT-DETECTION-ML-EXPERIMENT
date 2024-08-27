@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/e/BOT-DETECTION/BOT-DETECTION-ML-EXPERIMENT/models/mlruns/521991704904069623/bdabef5cb84940f8a8b2a71991f94f88/artifacts
+end_time: 1724751981686
+entry_point_name: ''
+experiment_id: '521991704904069623'
+lifecycle_stage: active
+run_id: bdabef5cb84940f8a8b2a71991f94f88
+run_name: Simple Logistic Regression with DVC Data for {data_type}
+run_uuid: bdabef5cb84940f8a8b2a71991f94f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724751976836
+status: 3
+tags: []
+user_id: sush
